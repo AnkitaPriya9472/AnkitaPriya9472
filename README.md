@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AnkitaPriya9472/AnkitaPriya9472** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Hi, I'm Ankita Priya 👋
 
-Here are some ideas to get you started:
+  ![Profile Views](https://komarev.com/ghpvc/?username=AnkitaPriya9472&color=blue&style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Java & Spring Boot Developer | Building AI-powered tools with MCP & Spring AI
+
+  ---
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnkitaPriya9472&show_icons=true&theme=default&hide_border=true)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitaPriya9472&layout=compact&hide_border=true)
+
+  ---
+  
+  ### Featured Projects
+
+  - [mcp-spring-timer](https://github.com/AnkitaPriya9472/mcp-spring-timer) — MCP server that lets AI set timers with macOS notifications, built with
+  Spring Boot & Spring AI
+
+  </div>
