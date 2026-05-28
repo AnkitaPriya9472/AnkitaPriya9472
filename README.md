@@ -1,11 +1,4 @@
-# Hi, I'm Ankita Priya 👋
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ankita%20Priya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20%7C%20Spring%20Boot%20%7C%20AI%20%26%20MCP&descAlignY=55&descSize=18" width="100%"/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=AnkitaPriya9472&color=6366f1&style=flat-square&label=Profile+Views)](https://github.com/AnkitaPriya9472)
-[![GitHub followers](https://img.shields.io/github/followers/AnkitaPriya9472?label=Followers&style=flat-square&color=6366f1)](https://github.com/AnkitaPriya9472)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6366f1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitapri)
 
 </div>
